@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NEAT Algorithm Checkpoints
+neat-checkpoint-*
+!best_genome.pkl
